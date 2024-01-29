@@ -1,0 +1,13 @@
+.Loginpage{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: coral;
+}
+
+.cb
+{
+    background-color: #ec9370;
+}
